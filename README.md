@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdi Arya Pratama</h1>
 <h3 align="center">🧠 Informatics Student | 💻 Aspiring Software Engineer | 🎨 UI/UX Explorer</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4FFFC1&center=true&vCenter=true&width=600&lines=Informatics+Student+%7C+Software+Engineering+%7C+UI%2FUX+Enthusiast;Beginner+in+15%2B+tech+stacks+and+still+growing+🚀" alt="Typing SVG" />
-</p>
-
 ---
 <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzV5aWZpMm9rZzkwc2JuZjdvMHl4OTZ6d2lnejB6aTV0N3ZoZHJkMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/31VKqgu62RQHxoxEuq/giphy.gif" width="260"/>
 
